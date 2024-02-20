@@ -9,8 +9,9 @@ image_metadata:
   caption: 'An image of a just-divided HeLa cell as seen under a scanning electron
     micrograph. HeLa is one of the most commonly used human cell lines in research.
     The cell line was derived from cancer cells from an African-American woman, Henrietta
-    Lacks, in 1951, without her consent and with no compensation. (Image by the National
-    Institutes of Health. License: CC BY-NC.)'
+    Lacks, in 1951, without her consent and with no compensation. (Courtesy of NIH,
+    Credit: National Center for Microscopy and Imaging Research. Used with permission.
+    License CC BY-NC.)'
   credit: ''
   image-alt: 'An image of a divided cell under an electronic micrograph. Each half
     is green and roundish with many hair-like protrusions extending off of them. '

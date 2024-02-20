@@ -17,7 +17,7 @@ Fausto-Sterling, Anne. 1993. [The Five Sexes: Why Male and Female Are Not Enough
 
 Valentine, Catherine G., Mary Nell Trautner, and Joan Z. Spade. 2008. [*The Kaleidoscope of Gender*](https://us.sagepub.com/en-us/nam/the-kaleidoscope-of-gender/book255394)*.* "Introduction." Sage. ISBN: 9781506389097. \[[Preview on Google Books](https://www.google.com/books/edition/The_Kaleidoscope_of_Gender/mKn99NiaSZQC?hl=en&gbpv=1&printsec=frontcover).\] 
 
-Hubbard, Ruth. 1982. "[Have Only Men Evolved?](https://link.springer.com/chapter/10.1007/978-94-010-0101-4_4)" In *Biological Woman--the Convenient Myth: A Collection of Feminist Essays and a Comprehensive Bibliography*, ed. Ruth Hubbard, Mary Sue Henifin, and Barbara Fried. Schenkman Books, 17–42. ISBN: 9780870737022.
+Hubbard, Ruth. 1982. "Have Only Men Evolved?" In *Biological Woman--the Convenient Myth: A Collection of Feminist Essays and a Comprehensive Bibliography*, ed. Ruth Hubbard, Mary Sue Henifin, and Barbara Fried. Schenkman Books, 17–42. ISBN: 9780870737022.
 
 **Session 3: Definitions: Race**
 
@@ -145,7 +145,7 @@ Kessler, Suzanne. 1990. “[The Medical Construction of Gender: Case Management 
 
 Chase, Cheryl. 1998. "[Hermaphrodites with Attitude: Mapping the Emergence of Intersex Political Activism](https://doi.org/10.1215/10642684-4-2-189)." *GLQ: A Journal of Lesbian and Gay Studies* 4(2): 189–212. DOI: 10.1215/10642684-4-2-189. 
 
-Film: [*One in 2000*](https://fanlight.com/catalog/films/459_ots.php)*.*
+Film: Icarus Films. [*One in 2000*](https://icarusfilms.com/fn-2000)*.* 2006.
 
 **Session 21: Race and Medicine Now**
 
@@ -169,7 +169,7 @@ Film: *African American Lives*. "[Episode 4: Beyond the Middle Passage](https://
 
 Thompson, Charis. 2001. "Strategic Naturalizing: Kinship in an Infertility Clinic." In [*Relative Values: Reconfiguring Kinship Studies*](https://read.dukeupress.edu/books/book/681/Relative-ValuesReconfiguring-Kinship-Studies)*,* ed. Sarah Franklin and Susan McKinnon. Duke University Press, 175–202. ISBN: 9780822383222. \[[Preview with Google Books.\]](https://www.google.com/books/edition/Relative_Values/f5LSWYEIOXgC?hl=en&gbpv=1&dq=relative+values:+reconfiguring&printsec=frontcover)
 
-Bharadwaj, Aditya. 2012. “The Other Mother: Supplementary Wombs and the Surrogate State in India.” In [*Reproductive Technologies as Global Form: Ethnographies of Knowledge, Practices, and Transnational Encounters*](https://www.amazon.com/Reproductive-Technologies-Global-Form-Ethnographies/dp/3593391007), ed. Michi Knecht, Maren Klotz, and Stefan Beck. University of Chicago Press, 139–160. ISBN: 9783593391007. \[[Preview with Google Books](https://www.google.com/books/edition/Reproductive_Technologies_as_Global_Form/oPW0WFrzXkEC?hl=en&gbpv=1&dq=reproductive+technologies+in+global+form&printsec=frontcover).\]
+Bharadwaj, Aditya. 2012. “The Other Mother: Supplementary Wombs and the Surrogate State in India.” In [*Reproductive Technologies as Global Form: Ethnographies of Knowledge, Practices, and Transnational Encounters*](https://www.amazon.com/Reproductive-Technologies-Global-Form-Ethnographies/dp/3593391007), ed. Michi Knecht, Maren Klotz, and Stefan Beck. Campus Verlag. 139–160. ISBN: 9783593391007. \[[Preview with Google Books](https://www.google.com/books/edition/Reproductive_Technologies_as_Global_Form/oPW0WFrzXkEC?hl=en&gbpv=1&dq=reproductive+technologies+in+global+form&printsec=frontcover).\]
 
 Franklin, Sarah. 2007. "Sex." In [*Dolly Mixtures: The Remaking of Genealogy*.](https://read.dukeupress.edu/books/book/1184/Dolly-MixturesThe-Remaking-of-Genealogy) Duke University Press, 19–45. ISBN: 9780822389651. \[[Preview with Google Books](https://www.google.com/books/edition/Dolly_Mixtures/DK-4KjlKB34C?hl=en&gbpv=1&dq=dolly+mixtures&printsec=frontcover).\]
 
