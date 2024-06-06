@@ -111,7 +111,7 @@ Committee on Women Faculty in the School of Science (MIT). 1999. "[A Study on th
 
 Urry, Megan. 2008. "Are Photons Gendered? Women in Physics and Astronomy." In [*Gendered Innovations in Science and Engineering*](https://www.sup.org/books/title/?id=11925), ed. Londa Schiebinger. Stanford, 150–164. ISBN: 9781503626997. 
 
-Sur, Abha. 2011. "Dispersed Radiance: Women Scientists in Raman’s Laboratory." In [*Dispersed Radiance: Caste, Gender, and Modern Science in India*](https://navayana.org/products/dispersed-radiance/?v=7516fd43adaa). Navayana Publishing, 179–219. ISBN: 9788189059323. 
+Sur, Abha. 2011. "Dispersed Radiance: Women Scientists in Raman’s Laboratory." In *Dispersed Radiance: Caste, Gender, and Modern Science in India*. Navayana Publishing, 179–219. ISBN: 9788189059323. \[[View on WorldCat](https://search.worldcat.org/title/dispersed-radiance-caste-gender-and-modern-science-in-india/oclc/819170255?referer=di&ht=edition).\]
 
 **Session 17: Race, Ethnicity, Scientific Careers, and Epistemology I**
 
