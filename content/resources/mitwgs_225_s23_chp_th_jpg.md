@@ -2,7 +2,7 @@
 body: ''
 content_type: resource
 draft: false
-file: /courses/wgs-225-science-and-race-sex-and-gender-spring-2023/mitwgs_225_s23_chp_th.jpg
+file: /ol-ocw-studio-app/courses/wgs-225-science-and-race-sex-and-gender-spring-2023/mitwgs_225_s23_chp_th.jpg
 file_size: 32874
 file_type: image/jpeg
 image_metadata:
