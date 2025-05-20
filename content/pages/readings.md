@@ -69,7 +69,7 @@ Film: [*The Lynchburg Story*](https://www.youtube.com/watch?v=51nRsof66Z0)*.* 19
 
 **Session 9: Materiality of Race**
 
-Wailoo, Keith. 2001. "[Stigma, Race, and Disease in 20<sup>th</sup> Century America: A Historical Overview](https://doi.org/10.1016/S0140-6736(06)68186-5)." *The Lancet* 367(9509): 531–533. DOI: 10.1016/S0140-6736(06)68186-5.
+Wailoo, Keith. 2001. "[Stigma, Race, and Disease in 20<sup>th</sup> Century America: A Historical Overview](https://doi.org/10.1016/S0140-6736%2806%2968186-5)." *The Lancet* 367(9509): 531–533. DOI: 10.1016/S0140-6736(06)68186-5.
 
 Kreiger, Nancy. 2000. "[Refiguring "Race": Epidemiology, Racialized Biology, and Biological Expressions of Race Relations.](https://doi.org/10.2190/672J-1PPF-K6QT-9N7U)" *International Journal of Health Services* 30(1): 211–216. DOI: 10.2190/672J-1K6QT-9N7U.
 
@@ -125,7 +125,7 @@ Malcolm, Shirley. 1993. "Increasing the Participation of Black Women in Science 
 
 Masco, Joseph. 2002. "[Lie Detectors: On Secrets and Hypersecurity in Los Alamos](https://doi.org/10.1215/08992363-14-3-441)." *Public Culture* 14(3):441–467. DOI: 10.1215/08992363-14-3-441.
 
-Kumar, Amitava. 2001. "Temporary Access: The Indian H-1B Worker in the United States". In [*Technicolor: Race, Technology, and Everyday Life*](http://www.alondranelson.com/books/technicolor-race-technology-and-everyday-life)*,* ed. Alondra Nelson and Thuy Linh N. Tu with Alicia Headlam Hines. New York University Press, 76–87. \[[Preview with Google Books](https://www.google.com/books/edition/Technicolor/s93SFzmc2psC?hl=en&gbpv=1&dq=technicolor:+race&printsec=frontcover).\] ISBN: 9780814736043. 
+Kumar, Amitava. 2001. "Temporary Access: The Indian H-1B Worker in the United States". In [*Technicolor: Race, Technology, and Everyday Life*](https://www.textbookrush.com/browse/books/9780814736043)*,* ed. Alondra Nelson and Thuy Linh N. Tu with Alicia Headlam Hines. New York University Press, 76–87. \[[Preview with Google Books](https://www.google.com/books/edition/Technicolor/s93SFzmc2psC?hl=en&gbpv=1&dq=technicolor:+race&printsec=frontcover).\] ISBN: 9780814736043. 
 
 ### Part 4: Sex/Gender, Race, and Science Now
 
